@@ -5,7 +5,7 @@ If any member of the marking team would like to explore my code in person and ha
 
 Regardless, to investigate my code without compiling, the following steps can be taken:
 
-Navigate to Orbit_database/scripts/APC_523_MAE_507_Final_Project. This folder contains four files specifically written for this project.
+Navigate to Orbit_database/scripts/APC_523_MAE_507_Final_Project. This folder contains four files specifically written for this project. Most of the other files are irrelevant for your purposes.
 In particular, most of the functionality can be run through interpolation.py (note: not project_main.py, it is a bit of a misnomer in hindsight).
 Many methods have been written there that will generate the relevant plots, and I have left many lines calling these uncommented so that the user can see them when run.
 Other lines running tests of the various interpolation methods can be uncommented and run and played around with as well.
